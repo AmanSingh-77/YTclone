@@ -1,2 +1,2 @@
 # YTclone
-Youtube clone using basic HTML and CSS
+Youtube clone using basic HTML and CSS.
